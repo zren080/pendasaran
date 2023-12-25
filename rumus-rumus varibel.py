@@ -1,7 +1,7 @@
 #proses memasukan data ke dalam variabel
 namadepan = "zren"
 #proses pencetak nama
-print(nama)
+print(namadepan)
 
 #nilai dan tipe data dalam variabel dapat di ubah
 umur = 20 #nilai awal

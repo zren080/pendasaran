@@ -1,0 +1,17 @@
+# menambahkan repository
+sudo add-apt-repository ppa:alessandro-strada/ppa
+sudo apt update && sudo apt upgrade -y
+
+# buka software, dan masukan akun google,keluar
+google-drive-ocamlfuse
+
+# membuat folder baru
+mkdir -v myGoogleDrive
+
+# hubungkan folder yang dibuat dengan google drive dan beri izin
+google-drive-ocamlfuse ~/myGoogleDrive
+df -h
+
+# copy file dan masukan ke folder yang tadi di buat
+
+ 

@@ -1,0 +1,7 @@
+zren lop
+refi jxliop
+saya asdwq
+
+memakai module:
+di saat memakai contoh : closed(jika dia berlogo {kunci-kunci} maka cara pakai nya adalah tanpa objke tuple -> ())
+jika dia berlogo kotak warna ungu maka memakai nya adalah pakai objek tuple -> ()

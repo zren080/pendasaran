@@ -3,7 +3,7 @@
 # 1.menyambung string (concatenate)
 nama_pertama = 'zren'
 nama_tengah = 'L'
-nama_akhir  = 'heay'
+nama_akhir  = 'hiay'
 
 nama_lengkap = nama_pertama+' '+nama_tengah+' '+nama_akhir # kalau mau berjarak harus di kasih tanda kutip dulu, lalu di dalam tanda kutip kasih spasi
 print(nama_lengkap)

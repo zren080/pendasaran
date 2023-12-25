@@ -1,5 +1,5 @@
 # operasi bitwise, operasi biner, binary
-
+# operasi bitwise unsupport di string
 # lambang or (|)
 
 a = 9

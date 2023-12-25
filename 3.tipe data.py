@@ -1,5 +1,5 @@
 # TIPE DATA
-
+# pada bool 1 di anggap benar, dan 0 di anggap salah
 # Tipe data: angka satuan yang nggak ada titiknya (integer)
 
 data_integer = 13   
@@ -34,14 +34,14 @@ print("-bertipe: ", type(data_bool))
 
 #Tipe data complex
 
-data_complex = complex(1,   3)
+data_complex = complex(1,3)
 print("data    : ", data_complex)
 print("-bertipe: ", type(data_complex))
 
 # Tipe data dari bahasa C
-
+'''
 from ctypes import c_double
 
 data_c_double = c_double(1.3)
 print("data    : ", data_c_double)
-print("-bertipe: ", type(data_c_double))
+print("-bertipe: ", type(data_c_double))'''
